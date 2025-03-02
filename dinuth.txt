@@ -1,3 +1,9 @@
 function test () =>{
     const x = "dinuth"
+        const x = "dinuth"
+
+    const x = "dinuth"
+
+    const x = "dinuth"
+
 }
